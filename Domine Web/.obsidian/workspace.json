@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3283d3acc0ecda72",
+        "id": "e42dcc61ebcf9599",
         "type": "tabs",
         "children": [
           {
-            "id": "6b62ee55df75722c",
+            "id": "aeca95e497e400c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagem de Programação PHP/3. Tipos.md",
+                "file": "Linguagem de Programação PHP/5. Constantes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d89e5b72944cc2df",
+            "id": "c9745ecc54d6ff6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagem de Programação PHP/4. Variáveis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "180eaa43008be499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagem de Programação PHP/4. Variáveis.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa7863039268d11e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
+                "file": "Linguagem de Programação PHP/9. Funções.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
+                "file": "Linguagem de Programação PHP/9. Funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
+                "file": "Linguagem de Programação PHP/9. Funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linguagem de Programação PHP/4.2 Variáveis variáveis.md"
+                "file": "Linguagem de Programação PHP/9. Funções.md"
               }
             }
           }
@@ -183,14 +159,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fa7863039268d11e",
+  "active": "bec3a8903ffd564a",
   "lastOpenFiles": [
+    "Linguagem de Programação PHP/5. Constantes.md",
+    "Linguagem de Programação PHP/9. Funções.md",
+    "Linguagem de Programação PHP/6. Operadores.md",
+    "Linguagem de Programação PHP/8. Casting de tipos.md",
+    "Linguagem de Programação PHP/7. Switch.md",
+    "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
     "Linguagem de Programação PHP/4.1. Escopo de variáveis.md",
     "Linguagem de Programação PHP/4. Variáveis.md",
     "Linguagem de Programação PHP/3. Tipos.md",
-    "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
-    "Linguagem de Programação PHP/1. O que é o PHP.md",
     "Linguagem de Programação PHP/2. Comentários.md",
+    "Linguagem de Programação PHP/1. O que é o PHP.md",
+    "Stack WAMP/2. Instalação através do XAMPP.md",
+    "Stack WAMP/1. O que é WAMP.md",
+    "Stack WAMP",
     "Welcome.md",
     "Linguagem de Programação PHP"
   ]
