@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aeca95e497e400c4",
+            "id": "a468a05e2a0ba7c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagem de Programação PHP/5. Constantes.md",
+                "file": "Linguagem de Programação PHP/9.3 Funções nativas.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c9745ecc54d6ff6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagem de Programação PHP/9. Funções.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "9.3 Funções nativas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -67,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguagem de Programação PHP/9. Funções.md",
+                "file": "Linguagem de Programação PHP/9.3 Funções nativas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 9.3 Funções nativas"
             }
           },
           {
@@ -115,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linguagem de Programação PHP/9. Funções.md",
+                "file": "Linguagem de Programação PHP/9.3 Funções nativas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 9.3 Funções nativas"
             }
           },
           {
@@ -129,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linguagem de Programação PHP/9. Funções.md"
-              }
+                "file": "Linguagem de Programação PHP/9.3 Funções nativas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 9.3 Funções nativas"
             }
           }
         ]
@@ -159,12 +162,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bec3a8903ffd564a",
+  "active": "a468a05e2a0ba7c2",
   "lastOpenFiles": [
-    "Linguagem de Programação PHP/5. Constantes.md",
+    "Linguagem de Programação PHP/9.2 Funções anônimas.md",
+    "Linguagem de Programação PHP/9.1 Argumentos de funções.md",
     "Linguagem de Programação PHP/9. Funções.md",
-    "Linguagem de Programação PHP/6. Operadores.md",
+    "Linguagem de Programação PHP/9.3 Funções nativas.md",
+    "Linguagem de Programação PHP/5. Constantes.md",
     "Linguagem de Programação PHP/8. Casting de tipos.md",
+    "Linguagem de Programação PHP/6. Operadores.md",
     "Linguagem de Programação PHP/7. Switch.md",
     "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
     "Linguagem de Programação PHP/4.1. Escopo de variáveis.md",
