@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e42dcc61ebcf9599",
+        "id": "6e3021692d5de7de",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9e5f6ed599cbc5",
+            "id": "2acd1b99ecfc9cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagem de Programação PHP/10. Arrays.md",
+                "file": "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Arrays"
+              "title": "3. Protegendo páginas restritas com SESSION"
+            }
+          },
+          {
+            "id": "fdc5ce4a801bbbd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto - App Help Desk/2. Autenticando usuário.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Autenticando usuário"
+            }
+          },
+          {
+            "id": "af2dba7a3c6f5d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Protegendo páginas restritas com SESSION"
             }
           }
         ]
@@ -77,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -162,21 +190,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9d9e5f6ed599cbc5",
+  "active": "2acd1b99ecfc9cce",
   "lastOpenFiles": [
-    "Linguagem de Programação PHP/10.1 Funções úteis para arrays.md",
-    "Linguagem de Programação PHP/9.3 Funções nativas.md",
-    "Linguagem de Programação PHP/10. Arrays.md",
+    "Projeto - App Help Desk/2. Autenticando usuário.md",
+    "Projeto - App Help Desk/1. Formulários (métodos GET e POST).md",
+    "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
+    "Projeto - App Help Desk.md",
+    "Projeto - App Help Desk",
+    "Linguagem de Programação PHP/11. Loops.md",
+    "Linguagem de Programação PHP/7. Switch.md",
     "Linguagem de Programação PHP/9.2 Funções anônimas.md",
+    "Linguagem de Programação PHP/9.3 Funções nativas.md",
     "Linguagem de Programação PHP/9.1 Argumentos de funções.md",
     "Linguagem de Programação PHP/9. Funções.md",
-    "Sem título.md",
-    "Linguagem de Programação PHP/5. Constantes.md",
     "Linguagem de Programação PHP/8. Casting de tipos.md",
     "Linguagem de Programação PHP/6. Operadores.md",
-    "Linguagem de Programação PHP/7. Switch.md",
-    "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
     "Linguagem de Programação PHP/4.1. Escopo de variáveis.md",
+    "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
+    "Linguagem de Programação PHP/5. Constantes.md",
+    "Linguagem de Programação PHP/10.1 Funções úteis para arrays.md",
+    "Linguagem de Programação PHP/10. Arrays.md",
     "Linguagem de Programação PHP/4. Variáveis.md",
     "Linguagem de Programação PHP/3. Tipos.md",
     "Linguagem de Programação PHP/2. Comentários.md",
