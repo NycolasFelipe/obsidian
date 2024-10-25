@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2acd1b99ecfc9cce",
+            "id": "44e873880d5d65de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
+                "file": "Projeto - App Help Desk/6. Persistindo dados.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Protegendo páginas restritas com SESSION"
+              "title": "6. Persistindo dados"
             }
           },
           {
-            "id": "fdc5ce4a801bbbd3",
+            "id": "06dc5bfdf302499b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto - App Help Desk/2. Autenticando usuário.md",
+                "file": "Projeto - App Help Desk/6. Persistindo dados.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Autenticando usuário"
-            }
-          },
-          {
-            "id": "af2dba7a3c6f5d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Protegendo páginas restritas com SESSION"
+              "title": "6. Persistindo dados"
             }
           }
         ]
@@ -190,34 +176,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2acd1b99ecfc9cce",
+  "active": "44e873880d5d65de",
   "lastOpenFiles": [
+    "Projeto - App Help Desk/5. Encerrando a sessão (logoff).md",
+    "Projeto - App Help Desk/4. Incorporando scripts.md",
+    "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
     "Projeto - App Help Desk/2. Autenticando usuário.md",
     "Projeto - App Help Desk/1. Formulários (métodos GET e POST).md",
-    "Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
-    "Projeto - App Help Desk.md",
-    "Projeto - App Help Desk",
+    "Linguagem de Programação PHP/12. Sessions & Cookies.md",
     "Linguagem de Programação PHP/11. Loops.md",
-    "Linguagem de Programação PHP/7. Switch.md",
+    "Linguagem de Programação PHP/10.1 Funções úteis para arrays.md",
+    "Linguagem de Programação PHP/10. Arrays.md",
     "Linguagem de Programação PHP/9.2 Funções anônimas.md",
-    "Linguagem de Programação PHP/9.3 Funções nativas.md",
     "Linguagem de Programação PHP/9.1 Argumentos de funções.md",
     "Linguagem de Programação PHP/9. Funções.md",
     "Linguagem de Programação PHP/8. Casting de tipos.md",
+    "Projeto - App Help Desk/6. Persistindo dados.md",
+    "Sem título.md",
+    "Projeto - App Help Desk.md",
+    "Projeto - App Help Desk",
+    "Linguagem de Programação PHP/7. Switch.md",
+    "Linguagem de Programação PHP/9.3 Funções nativas.md",
     "Linguagem de Programação PHP/6. Operadores.md",
     "Linguagem de Programação PHP/4.1. Escopo de variáveis.md",
     "Linguagem de Programação PHP/4.2 Variáveis variáveis.md",
     "Linguagem de Programação PHP/5. Constantes.md",
-    "Linguagem de Programação PHP/10.1 Funções úteis para arrays.md",
-    "Linguagem de Programação PHP/10. Arrays.md",
     "Linguagem de Programação PHP/4. Variáveis.md",
     "Linguagem de Programação PHP/3. Tipos.md",
     "Linguagem de Programação PHP/2. Comentários.md",
     "Linguagem de Programação PHP/1. O que é o PHP.md",
-    "Stack WAMP/2. Instalação através do XAMPP.md",
-    "Stack WAMP/1. O que é WAMP.md",
     "Stack WAMP",
-    "Welcome.md",
     "Linguagem de Programação PHP"
   ]
 }
