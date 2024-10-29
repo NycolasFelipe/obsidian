@@ -11,14 +11,12 @@
             "id": "7572c76f81c749cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
-                "mode": "preview",
-                "source": true
+                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png"
               },
-              "icon": "lucide-file",
-              "title": "1. Introdução a Orientação a Objetos"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241028151015"
             }
           }
         ]
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 366.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
+                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1. Introdução a Orientação a Objetos"
+              "title": "Links inversos para Pasted image 20241028151015"
             }
           },
           {
@@ -149,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,8 +162,23 @@
   },
   "active": "7572c76f81c749cb",
   "lastOpenFiles": [
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. OO - Pilar da Abstração.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028150530.png",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028145829.png",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144656.png",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144242.png",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029194415.png",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029190931.png",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029185613.png",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029183225.png",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029183156.png",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas e Informação nas Organizações.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. OO - Pilar da Abstração.md",
     "Sem título.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos",
     "Linguagem de Programação - PHP/PHP/10. Arrays.md",
@@ -186,29 +199,13 @@
     "Linguagem de Programação - PHP/Stack WAMP/1. O que é WAMP.md",
     "Linguagem de Programação - PHP/PHP/13. Acessar nome do arquivo do script.md",
     "Linguagem de Programação - PHP/PHP/4. Variáveis.md",
-    "Linguagem de Programação - PHP/PHP/3. Tipos.md",
-    "Linguagem de Programação - PHP/PHP/2. Comentários.md",
-    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
-    "Linguagem de Programação - TypeScript/2. Type Basics.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144242.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028150530.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028145829.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144656.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos",
     "Sistemas de Informação - Uninter",
     "Webpack",
-    "CSS/Imagens/Pasted image 20240514172806.png",
     "CSS/Imagens",
     "CSS/Anotações",
-    "Sem título 1",
-    "CSS",
-    "Linguagem de Programação - JavaScript/Anotações",
-    "Linguagem de Programação - TypeScript/Imagens/TypeScript Types.png",
-    "Linguagem de Programação - TypeScript/Imagens/TypeScript Interfaces.png",
-    "Linguagem de Programação - TypeScript/Imagens/TypeScript Control Flow Analysis.png",
-    "Linguagem de Programação - TypeScript/Imagens/TypeScript Classes.png"
+    "Sem título 1"
   ]
 }
