@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2af6ea274ee25292",
+        "id": "921e1d72a4bd7b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "7572c76f81c749cb",
+            "id": "5db53087e4f2a462",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png"
+                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241028151015"
+              "icon": "lucide-file",
+              "title": "Aula 6. Tendências em Sistemas de Informação"
             }
           }
         ]
@@ -29,11 +31,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7383e52c7455ee99",
+        "id": "e86f28a41a5c5b73",
         "type": "tabs",
         "children": [
           {
-            "id": "bec3a8903ffd564a",
+            "id": "41f506ad17fd3ecf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +47,7 @@
             }
           },
           {
-            "id": "9b81021c5bbfa76b",
+            "id": "c7f8a3bd0cc7e430",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,22 +62,12 @@
               "icon": "lucide-search",
               "title": "Procurar"
             }
-          },
-          {
-            "id": "9599054c7f7a9b24",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 322.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -160,52 +152,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7572c76f81c749cb",
+  "active": "5db53087e4f2a462",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
+    "Linguagem de Programação - PHP/PHP/9.1 Argumentos de funções.md",
+    "Linguagem de Programação - PHP/PHP/9. Funções.md",
+    "Linguagem de Programação - PHP/PHP/8. Casting de tipos.md",
+    "Linguagem de Programação - PHP/PHP/7. Switch.md",
+    "Linguagem de Programação - PHP/PHP/5. Constantes.md",
+    "Linguagem de Programação - PHP/PHP/4.2 Variáveis variáveis.md",
+    "Linguagem de Programação - PHP/PHP/4.1. Escopo de variáveis.md",
+    "Linguagem de Programação - PHP/PHP/4. Variáveis.md",
+    "Linguagem de Programação - PHP/PHP/3. Tipos.md",
+    "Linguagem de Programação - PHP/PHP/2. Comentários.md",
+    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028150530.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028145829.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144656.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144242.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029194415.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029190931.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029185613.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029183225.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029183156.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas e Informação nas Organizações.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. OO - Pilar da Abstração.md",
     "Sem título.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos",
-    "Linguagem de Programação - PHP/PHP/10. Arrays.md",
-    "Linguagem de Programação - PHP/PHP/10.1 Funções úteis para arrays.md",
-    "Linguagem de Programação - PHP/PHP/12. Sessions & Cookies.md",
-    "Linguagem de Programação - PHP/PHP/11. Loops.md",
-    "Linguagem de Programação - PHP/PHP/9.3 Funções nativas.md",
-    "Linguagem de Programação - PHP/PHP/9.2 Funções anônimas.md",
-    "Linguagem de Programação - PHP/PHP/9.1 Argumentos de funções.md",
-    "Linguagem de Programação - PHP/PHP/9. Funções.md",
-    "Linguagem de Programação - PHP/PHP/8. Casting de tipos.md",
-    "Linguagem de Programação - PHP/PHP/7. Switch.md",
-    "Linguagem de Programação - PHP/PHP/6. Operadores.md",
-    "Linguagem de Programação - PHP/PHP/5. Constantes.md",
-    "Linguagem de Programação - PHP/PHP/4.2 Variáveis variáveis.md",
-    "Linguagem de Programação - PHP/PHP/4.1. Escopo de variáveis.md",
-    "Linguagem de Programação - PHP/Stack WAMP/2. Instalação através do XAMPP.md",
-    "Linguagem de Programação - PHP/Stack WAMP/1. O que é WAMP.md",
-    "Linguagem de Programação - PHP/PHP/13. Acessar nome do arquivo do script.md",
-    "Linguagem de Programação - PHP/PHP/4. Variáveis.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos",
     "Sistemas de Informação - Uninter",
     "Webpack",
-    "CSS/Imagens",
-    "CSS/Anotações",
-    "Sem título 1"
+    "CSS/Imagens"
   ]
 }

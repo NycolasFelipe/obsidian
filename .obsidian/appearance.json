@@ -1,4 +1,8 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Shimmering Focus"
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "title_spacing",
+    "my_custom"
+  ]
 }
