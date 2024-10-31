@@ -31,8 +31,7 @@ A teoria geral dos sistemas (TGS) foi proposta pela primeira vez por Ludwig von 
 ![[Pasted image 20241029183225.png]]
 
 
-##### Conceitos iniciais para o entendimento do funcionamento de sistemas de informações
-
+##### Conceitos iniciais para o entendimento do funcionamento de SIs
 Para que os sistemas funcionem, é necessária uma infraestrutura mínima que corresponde à base ou estrutura que suporta um sistema ou organização.
 
 ![[Pasted image 20241029185613.png]]
