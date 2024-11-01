@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "921e1d72a4bd7b5e",
+        "id": "c202f9eacea7724c",
         "type": "tabs",
         "children": [
           {
-            "id": "5db53087e4f2a462",
+            "id": "c154ae3aa899a32e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
-                "mode": "preview",
+                "file": "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 2. Sistemas de Informação nas Organizações"
+              "title": "2. Os 4 Pilares da Programação OO"
             }
           }
         ]
@@ -62,12 +62,22 @@
               "icon": "lucide-search",
               "title": "Procurar"
             }
+          },
+          {
+            "id": "82da18759a8e31eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 337.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -78,68 +88,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "297d486ba15826fb",
+            "id": "3634187ce5f27c2e",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para Pasted image 20241028151015"
-            }
-          },
-          {
-            "id": "d5f20b87dda99257",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Linguagem de Programação PHP/9.3 Funções nativas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para 9.3 Funções nativas"
-            }
-          },
-          {
-            "id": "dcc089b20f0b68cf",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c4293cb8b4acc2ba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Linguagem de Programação PHP/9.3 Funções nativas.md"
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de 9.3 Funções nativas"
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 351.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,35 +111,40 @@
       "canvas:Criar novo canvas": true,
       "daily-notes:Abrir a nota de hoje": true,
       "templates:Inserir modelo": true,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "vscode-editor:Create Code File": false,
+      "chronology:Open Chronology": false
     }
   },
-  "active": "41f506ad17fd3ecf",
+  "active": "c154ae3aa899a32e",
   "lastOpenFiles": [
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
+    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
+    "Linguagem de Programação - PHP/PHP/13. Acessar nome do arquivo do script.md",
+    "Linguagem de Programação - PHP/PHP/12. Sessions & Cookies.md",
+    "Linguagem de Programação - PHP/PHP/11. Loops.md",
+    "Linguagem de Programação - PHP/PHP/10.1 Funções úteis para arrays.md",
+    "Linguagem de Programação - PHP/PHP/10. Arrays.md",
+    "Linguagem de Programação - PHP/PHP/9.3 Funções nativas.md",
+    "Linguagem de Programação - PHP/PHP/9.2 Funções anônimas.md",
     "Linguagem de Programação - PHP/PHP/9.1 Argumentos de funções.md",
     "Linguagem de Programação - PHP/PHP/9. Funções.md",
     "Linguagem de Programação - PHP/PHP/8. Casting de tipos.md",
     "Linguagem de Programação - PHP/PHP/7. Switch.md",
+    "Linguagem de Programação - PHP/PHP/6. Operadores.md",
     "Linguagem de Programação - PHP/PHP/5. Constantes.md",
     "Linguagem de Programação - PHP/PHP/4.2 Variáveis variáveis.md",
     "Linguagem de Programação - PHP/PHP/4.1. Escopo de variáveis.md",
-    "Linguagem de Programação - PHP/PHP/4. Variáveis.md",
-    "Linguagem de Programação - PHP/PHP/3. Tipos.md",
-    "Linguagem de Programação - PHP/PHP/2. Comentários.md",
-    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta",
@@ -189,10 +156,8 @@
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029194415.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029190931.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029185613.png",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. OO - Pilar da Abstração.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos",
