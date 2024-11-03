@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c202f9eacea7724c",
+        "id": "b411f89e1076d65f",
         "type": "tabs",
         "children": [
           {
-            "id": "c154ae3aa899a32e",
+            "id": "a6e99c5a28485233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
-                "mode": "source",
+                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Os 4 Pilares da Programação OO"
+              "title": "Aula 3. Infraestrutura e Segurança de Sistemas de Informação"
             }
           }
         ]
@@ -96,6 +96,64 @@
               "icon": "clock",
               "title": "Chronology"
             }
+          },
+          {
+            "id": "cc002062e4fd47ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Aula 2. Sistemas de Informação nas Organizações"
+            }
+          },
+          {
+            "id": "9f98a67b72ce3c8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Aula 2. Sistemas de Informação nas Organizações"
+            }
+          },
+          {
+            "id": "53b4252b58d9e042",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c24462c2ed81ec10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Aula 2. Sistemas de Informação nas Organizações"
+            }
           }
         ]
       }
@@ -112,23 +170,26 @@
       "daily-notes:Abrir a nota de hoje": true,
       "templates:Inserir modelo": true,
       "command-palette:Abrir paleta de comandos": false,
-      "vscode-editor:Create Code File": false,
       "chronology:Open Chronology": false
     }
   },
-  "active": "c154ae3aa899a32e",
+  "active": "a6e99c5a28485233",
   "lastOpenFiles": [
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
-    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",
+    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
     "Linguagem de Programação - PHP/PHP/13. Acessar nome do arquivo do script.md",
     "Linguagem de Programação - PHP/PHP/12. Sessions & Cookies.md",
     "Linguagem de Programação - PHP/PHP/11. Loops.md",
@@ -140,10 +201,6 @@
     "Linguagem de Programação - PHP/PHP/9. Funções.md",
     "Linguagem de Programação - PHP/PHP/8. Casting de tipos.md",
     "Linguagem de Programação - PHP/PHP/7. Switch.md",
-    "Linguagem de Programação - PHP/PHP/6. Operadores.md",
-    "Linguagem de Programação - PHP/PHP/5. Constantes.md",
-    "Linguagem de Programação - PHP/PHP/4.2 Variáveis variáveis.md",
-    "Linguagem de Programação - PHP/PHP/4.1. Escopo de variáveis.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
