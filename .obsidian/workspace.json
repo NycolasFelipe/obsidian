@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 3. Infraestrutura e Segurança de Sistemas de Informação"
+              "title": "Aula 5. Funções"
             }
           }
         ]
@@ -176,8 +176,22 @@
   "active": "a6e99c5a28485233",
   "lastOpenFiles": [
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
+    "Framework - React/3.5 useReducer.md",
+    "Framework - React/3.4 useRef.md",
+    "Framework - React/3.3 useContext.md",
+    "Framework - React/3.2 useEffect.md",
+    "Framework - React/3.1 useState.md",
+    "Framework - React/3. React Hooks.md",
+    "Framework - React/2. React CSS.md",
+    "Framework - React/1. React.md",
+    "Linguagem de Programação - JavaScript/Anotações/5. Search when press Enter.md",
+    "Linguagem de Programação - JavaScript/Anotações/4. Replace backslashes.md",
+    "Linguagem de Programação - JavaScript/Anotações/3. Get URL Search Param.md",
+    "Linguagem de Programação - JavaScript/Anotações/2. Array.prototype.flat().md",
+    "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
@@ -187,20 +201,6 @@
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",
-    "Linguagem de Programação - PHP/PHP/1. O que é o PHP.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
-    "Linguagem de Programação - PHP/PHP/13. Acessar nome do arquivo do script.md",
-    "Linguagem de Programação - PHP/PHP/12. Sessions & Cookies.md",
-    "Linguagem de Programação - PHP/PHP/11. Loops.md",
-    "Linguagem de Programação - PHP/PHP/10.1 Funções úteis para arrays.md",
-    "Linguagem de Programação - PHP/PHP/10. Arrays.md",
-    "Linguagem de Programação - PHP/PHP/9.3 Funções nativas.md",
-    "Linguagem de Programação - PHP/PHP/9.2 Funções anônimas.md",
-    "Linguagem de Programação - PHP/PHP/9.1 Argumentos de funções.md",
-    "Linguagem de Programação - PHP/PHP/9. Funções.md",
-    "Linguagem de Programação - PHP/PHP/8. Casting de tipos.md",
-    "Linguagem de Programação - PHP/PHP/7. Switch.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
