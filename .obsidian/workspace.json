@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b411f89e1076d65f",
+        "id": "44844333a5484c03",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e99c5a28485233",
+            "id": "bb6edc02666cb123",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,14 +173,16 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "a6e99c5a28485233",
+  "active": "bb6edc02666cb123",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141903.png",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141802.png",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
     "Sem título.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
     "Framework - React/3.5 useReducer.md",
     "Framework - React/3.4 useRef.md",
     "Framework - React/3.3 useContext.md",
@@ -200,7 +202,6 @@
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
@@ -211,8 +212,6 @@
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144656.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144242.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029194415.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029190931.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029185613.png",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos",
