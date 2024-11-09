@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
+                "file": "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 5. Funções"
+              "title": "Aula 4. Estruturas de repetição"
             }
           }
         ]
@@ -175,12 +175,19 @@
   },
   "active": "bb6edc02666cb123",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_4.py",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_3.py",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_2.py",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_1.py",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141903.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141802.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
     "Sem título.md",
     "Framework - React/3.5 useReducer.md",
@@ -201,11 +208,9 @@
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028150530.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028145829.png",
@@ -215,10 +220,6 @@
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos",
-    "Sistemas de Informação - Uninter",
-    "Webpack",
-    "CSS/Imagens"
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens"
   ]
 }
