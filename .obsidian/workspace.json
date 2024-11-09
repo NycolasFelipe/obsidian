@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 293.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -93,8 +93,8 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "clock",
-              "title": "Chronology"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -175,8 +175,12 @@
   },
   "active": "a6e99c5a28485233",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
+    "Sem título.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
     "Framework - React/3.5 useReducer.md",
     "Framework - React/3.4 useRef.md",
     "Framework - React/3.3 useContext.md",
@@ -191,16 +195,12 @@
     "Linguagem de Programação - JavaScript/Anotações/2. Array.prototype.flat().md",
     "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
