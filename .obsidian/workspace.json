@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75bf5aaeb7f3c81a",
+        "id": "7d0cc5f3abee4e41",
         "type": "tabs",
         "children": [
           {
-            "id": "ec11714318701927",
+            "id": "be88882d48f913d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,11 +174,15 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "ec11714318701927",
+  "active": "be88882d48f913d2",
   "lastOpenFiles": [
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+    "Sem título.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_4.py",
@@ -193,7 +197,6 @@
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141903.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141802.png",
-    "Sem título.md",
     "Framework - React/3.5 useReducer.md",
     "Framework - React/3.4 useRef.md",
     "Framework - React/3.3 useContext.md",
@@ -207,9 +210,6 @@
     "Linguagem de Programação - JavaScript/Anotações/3. Get URL Search Param.md",
     "Linguagem de Programação - JavaScript/Anotações/2. Array.prototype.flat().md",
     "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/2. Os 4 Pilares da Programação OO.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
