@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showRibbon": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "spellcheck": false
 }

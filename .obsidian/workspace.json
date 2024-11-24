@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
+                "file": "Framework - React/0. Notas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Notas"
+            }
+          },
+          {
+            "id": "af861304eea3c421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Framework - React/1. React.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 4. Sistemas de Gestão e Big Data"
+              "title": "1. React"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,8 +188,20 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "e4716fec94f79b88",
+  "active": "af861304eea3c421",
   "lastOpenFiles": [
+    "Framework - React/2. React CSS.md",
+    "Framework - React/3. React Hooks.md",
+    "Framework - React/3.1 useState.md",
+    "Framework - React/3.2 useEffect.md",
+    "Framework - React/3.3 useContext.md",
+    "Framework - React/3.4 useRef.md",
+    "Framework - React/1. React.md",
+    "Framework - React/0. Notas.md",
+    "Framework - React/3.8 Custom Hooks.md",
+    "Framework - React/4. useAuth.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
@@ -182,9 +209,6 @@
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
-    "Sem título.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_4.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_3.py",
@@ -197,18 +221,9 @@
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141903.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141802.png",
     "Framework - React/3.5 useReducer.md",
-    "Framework - React/3.4 useRef.md",
-    "Framework - React/3.3 useContext.md",
-    "Framework - React/3.2 useEffect.md",
-    "Framework - React/3.1 useState.md",
-    "Framework - React/3. React Hooks.md",
-    "Framework - React/2. React CSS.md",
-    "Framework - React/1. React.md",
     "Linguagem de Programação - JavaScript/Anotações/5. Search when press Enter.md",
     "Linguagem de Programação - JavaScript/Anotações/4. Replace backslashes.md",
     "Linguagem de Programação - JavaScript/Anotações/3. Get URL Search Param.md",
-    "Linguagem de Programação - JavaScript/Anotações/2. Array.prototype.flat().md",
-    "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
