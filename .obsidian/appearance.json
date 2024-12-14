@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Border",
+  "cssTheme": "Bolt",
   "enabledCssSnippets": [
-    "title_spacing",
-    "my_custom"
-  ]
+    "title_spacing"
+  ],
+  "accentColor": ""
 }
