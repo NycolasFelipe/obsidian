@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "title_spacing"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": true
 }

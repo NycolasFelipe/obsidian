@@ -1,4 +1,3 @@
-
 ##### Relatórios Ad-Hoc: Uma Visão Geral
 
 **Relatórios ad-hoc** são aqueles gerados sob demanda, ou seja, criados de forma personalizada para responder a uma pergunta específica no momento em que ela surge. Ao contrário dos relatórios programados, que seguem um formato e cronograma pré-definidos, os relatórios ad-hoc oferecem maior flexibilidade para explorar os dados de maneira mais livre e intuitiva.

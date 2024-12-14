@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6c242c134a46361",
+        "id": "bc9ef9c3a37de20c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba1d79ac36bfb57b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagem de Programação - PHP/PHP e Orientação a objetos/3.1 Overloading de atributos e métodos.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.1 Overloading de atributos e métodos"
-            }
-          },
-          {
-            "id": "c7346a186752bc19",
+            "id": "69302fd29ab4e3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,38 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "1. Introdução a Banco de Dados"
-            }
-          },
-          {
-            "id": "03706974655e9873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Introdução a Banco de Dados"
-            }
-          },
-          {
-            "id": "2dfb06d09104f969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Termos e Notas/Relatórios Ad-Hoc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relatórios Ad-Hoc"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,18 +173,18 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "2dfb06d09104f969",
+  "active": "69302fd29ab4e3b4",
   "lastOpenFiles": [
     "SQL para Análise de Dados/2. Modelagem de Dados.md",
+    "Termos e Notas/Relatórios Ad-Hoc.md",
     "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
+    "Linguagem de Programação - PHP/PHP e Orientação a objetos/3.1 Overloading de atributos e métodos.md",
     "Sem título",
     "SQL/1. MySQL.md",
     "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
-    "Termos e Notas/Relatórios Ad-Hoc.md",
     "Framework - React/2. React CSS.md",
     "Framework - React/0. Notas.md",
     "Termos e Notas",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/3.1 Overloading de atributos e métodos.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",

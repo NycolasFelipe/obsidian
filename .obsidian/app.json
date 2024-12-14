@@ -1,8 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "showLineNumber": false,
   "attachmentFolderPath": "./",
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": true
 }
