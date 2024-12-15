@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc9ef9c3a37de20c",
+        "id": "5758b756b4fa6614",
         "type": "tabs",
         "children": [
           {
-            "id": "69302fd29ab4e3b4",
+            "id": "b967b8a98f6ec1be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
+                "file": "SQL para Análise de Dados/2. Modelagem de Dados.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introdução a Banco de Dados"
+              "title": "2. Modelagem de Dados"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 430.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -173,13 +173,25 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "69302fd29ab4e3b4",
+  "active": "b967b8a98f6ec1be",
   "lastOpenFiles": [
+    "Termos e Notas/Diagrama de Entidade e Relacionamento (DER).md",
+    "Termos e Notas/Pasted image 20241215140150.png",
+    "Termos e Notas/Imagens/Pasted image 20241215134852.png",
+    "Termos e Notas/Imagens/Pasted image 20241215134958.png",
+    "Termos e Notas/Imagens/Pasted image 20241215143337.png",
+    "Termos e Notas/Imagens/Pasted image 20241215143317.png",
+    "Termos e Notas/Imagens/Pasted image 20241215143223.png",
+    "Termos e Notas/Pasted image 20241215142101.png",
+    "Termos e Notas/Pasted image 20241215142058.png",
+    "Termos e Notas/Imagens/Pasted image 20241215141959.png",
+    "Termos e Notas/Imagens/Pasted image 20241215141728.png",
+    "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
+    "Termos e Notas/Imagens",
+    "SQL para Análise de Dados/Imagens",
     "SQL para Análise de Dados/2. Modelagem de Dados.md",
     "Termos e Notas/Relatórios Ad-Hoc.md",
-    "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/3.1 Overloading de atributos e métodos.md",
-    "Sem título",
     "SQL/1. MySQL.md",
     "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
     "Framework - React/2. React CSS.md",
@@ -201,25 +213,12 @@
     "Linguagem de Programação - PHP/PHP/6. Operadores.md",
     "Linguagem de Programação - PHP/PHP/5. Constantes.md",
     "Linguagem de Programação - PHP/PHP/4.2 Variáveis variáveis.md",
-    "Linguagem de Programação - PHP/PHP/4.1. Escopo de variáveis.md",
-    "Linguagem de Programação - PHP/PHP/4. Variáveis.md",
     "SQL para Análise de Dados",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_4.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_3.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_2.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_1.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141903.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241109141802.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241031171013.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241031131850.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Python",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028151015.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028150530.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028145829.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144656.png",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Imagens/Pasted image 20241028144242.png",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Imagens/Pasted image 20241029194415.png"
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta"
   ]
 }
