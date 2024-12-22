@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5758b756b4fa6614",
+        "id": "21565d8816028c08",
         "type": "tabs",
         "children": [
           {
-            "id": "b967b8a98f6ec1be",
+            "id": "4d8f2b30920ece32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/2. Modelagem de Dados.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. Modelagem de Dados"
+              "title": "Nova aba"
             }
           }
         ]
@@ -173,10 +169,11 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "b967b8a98f6ec1be",
+  "active": "4d8f2b30920ece32",
   "lastOpenFiles": [
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "SQL para Análise de Dados/2. Modelagem de Dados.md",
+    "SQL para Análise de Dados/2.1. Normalização de Dados.md",
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202527.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202618.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202410.png",
@@ -213,7 +210,6 @@
     "Linguagem de Programação - PHP/PHP e Orientação a objetos/1. Introdução a Orientação a Objetos.md",
     "Linguagem de Programação - PHP/PHP/6. Operadores.md",
     "Linguagem de Programação - PHP/PHP/5. Constantes.md",
-    "Linguagem de Programação - PHP/PHP/4.2 Variáveis variáveis.md",
     "SQL para Análise de Dados",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_4.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_3.py",
