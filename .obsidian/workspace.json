@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f02db531e34b51a4",
+        "id": "fb581b88e51ee846",
         "type": "tabs",
         "children": [
           {
-            "id": "0f71fe154930ced5",
+            "id": "b6d019a0134ad8a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
+                "file": "SQL para Análise de Dados/3.8. Junção de tabelas.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5. DTL - Data Transaction Language"
+              "title": "3.8. Junção de tabelas"
             }
           },
           {
-            "id": "06e28a03b3f3a979",
+            "id": "4f677f1de51d6b9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL para Análise de Dados/4. Linguagem SQL - Parte 2.md",
+                "file": "SQL para Análise de Dados/3.9. Funções de agregação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Linguagem SQL - Parte 2"
+              "title": "3.9. Funções de agregação"
+            }
+          },
+          {
+            "id": "44a6b40a67dc67e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/3.12. Sub consultas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.12. Sub consultas"
+            }
+          },
+          {
+            "id": "0d8d4877437e96d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/4. MySQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. MySQL"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 349.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -188,21 +216,37 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "41f506ad17fd3ecf",
+  "active": "0d8d4877437e96d6",
   "lastOpenFiles": [
-    "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
-    "SQL para Análise de Dados/4. Linguagem SQL - Parte 2.md",
-    "SQL para Análise de Dados/3.2. DML - Data Manipulation Language.md",
-    "SQL para Análise de Dados/3. Linguagem SQL - Parte 1.md",
-    "SQL para Análise de Dados/3.4. DCL - Data Control Language.md",
-    "SQL para Análise de Dados/3.3. DDL - Data Definition Language.md",
+    "SQL para Análise de Dados/3.12. Sub consultas.md",
+    "SQL para Análise de Dados/4. MySQL.md",
+    "SQL para Análise de Dados/3.11. Funções de data e hora.md",
+    "SQL para Análise de Dados/3.10. Agrupamento e ordenação.md",
+    "SQL para Análise de Dados/3.9. Funções de agregação.md",
+    "SQL para Análise de Dados/3.8. Junção de tabelas.md",
+    "Termos e Notas/Relatórios Ad-Hoc.md",
+    "Termos e Notas/Diagrama de Entidade e Relacionamento (DER).md",
+    "Webpack/2.1 Style Loader.md",
+    "Webpack/2. Loaders.md",
+    "Webpack/1.2 Webpack + TypeScript.md",
+    "Webpack/1.1 Webpack Config.md",
+    "Webpack/1. Webpack.md",
+    "SQL para Análise de Dados/3. Linguagem SQL.md",
     "SQL para Análise de Dados/3.1. DQL - Data Query Language.md",
+    "SQL para Análise de Dados/3.2. DML - Data Manipulation Language.md",
+    "SQL para Análise de Dados/3.3. DDL - Data Definition Language.md",
+    "SQL para Análise de Dados/3.4. DCL - Data Control Language.md",
+    "SQL para Análise de Dados/3.7. Consultas em múltiplas tabelas.md",
+    "SQL para Análise de Dados/3.6. Filtrando consultas com WHERE.md",
+    "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
+    "SQL para Análise de Dados/Imagens/Pasted image 20250105163120.png",
+    "SQL para Análise de Dados/join-inner-svgrepo-com.svg",
+    "SQL para Análise de Dados/join-outer-svgrepo-com.svg",
+    "Sem título 1.md",
+    "SQL para Análise de Dados/2. Modelagem de Dados.md",
     "SQL para Análise de Dados/2.1. Normalização de Dados.md",
     "Framework - React/3.6 useCallback.md",
     "CSS/Anotações/2. Change SVGs color.md",
-    "CSS/Anotações/1. CSS Reset Stylesheet.md",
-    "SQL para Análise de Dados/2. Modelagem de Dados.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202527.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202618.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202410.png",
@@ -210,25 +254,9 @@
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202142.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202314.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202036.png",
-    "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
-    "SQL para Análise de Dados/Imagens/Pasted image 20241215124936.png",
-    "Termos e Notas/Diagrama de Entidade e Relacionamento (DER).md",
-    "Termos e Notas/Pasted image 20241215140150.png",
-    "Termos e Notas/Imagens/Pasted image 20241215134852.png",
     "Termos e Notas/Imagens",
     "SQL para Análise de Dados/Imagens",
-    "Termos e Notas/Relatórios Ad-Hoc.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/3.1 Overloading de atributos e métodos.md",
-    "SQL/1. MySQL.md",
-    "Linguagem de Programação - JavaScript/Anotações/1. Array.prototype.reduce().md",
-    "Framework - React/2. React CSS.md",
-    "Framework - React/0. Notas.md",
     "Termos e Notas",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/4. Método Construtor e Destrutor.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/5. Atributos e métodos estáticos.md",
-    "Linguagem de Programação - PHP/PHP e Orientação a objetos/6. Interfaces.md",
-    "Linguagem de Programação - PHP/Projeto - App Help Desk/3. Protegendo páginas restritas com SESSION.md",
-    "Linguagem de Programação - PHP/Projeto - App Help Desk/4. Incorporando scripts.md",
     "SQL para Análise de Dados",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_4.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_3.py",

@@ -2,7 +2,8 @@
   "theme": "moonstone",
   "cssTheme": "Bolt",
   "enabledCssSnippets": [
-    "title_spacing"
+    "title_spacing",
+    "my_custom"
   ],
   "accentColor": "",
   "showViewHeader": true
