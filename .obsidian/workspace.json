@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3b759c9359c78778",
+        "id": "1496709cc768e534",
         "type": "tabs",
         "children": [
           {
-            "id": "e1bd359613e89f15",
+            "id": "f8d9895d4c9fd7b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/3.11. Funções de data e hora.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3.11. Funções de data e hora"
+              "title": "Nova aba"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 361.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -173,20 +169,25 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "e1bd359613e89f15",
+  "active": "41f506ad17fd3ecf",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
+    "SQL para Análise de Dados/4. MySQL.md",
+    "Queries/Comprehensive summary of the given text.md",
+    "Queries/Summarize text by producing a series of summaries.md",
     "SQL para Análise de Dados/3.10. Funções de agrupamento e ordenação.md",
-    "SQL para Análise de Dados/3.9. Funções de agregação.md",
     "SQL para Análise de Dados/3.11. Funções de data e hora.md",
+    "SQL para Análise de Dados/3.12. Sub consultas.md",
+    "Queries",
+    "SQL para Análise de Dados/3.9. Funções de agregação.md",
     "SQL para Análise de Dados/3.8. Junção de tabelas.md",
     "SQL para Análise de Dados/3.7. Consultas em múltiplas tabelas.md",
     "SQL para Análise de Dados/3.6. Filtrando consultas com WHERE.md",
     "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
     "SQL para Análise de Dados/3.4. DCL - Data Control Language.md",
     "Sem título 1.md",
-    "Sem título.md",
-    "SQL para Análise de Dados/4. MySQL.md",
-    "SQL para Análise de Dados/3.12. Sub consultas.md",
     "Linguagem de Programação - TypeScript/10.1 Render an HTML Template.md",
     "Linguagem de Programação - TypeScript/10. DOM & Type Casting.md",
     "Linguagem de Programação - TypeScript/9. Interfaces.md",
@@ -197,10 +198,6 @@
     "Linguagem de Programação - TypeScript/4.3 Readonly Tuples.md",
     "Linguagem de Programação - TypeScript/4.2 Tuple Types.md",
     "Linguagem de Programação - TypeScript/4.1 Generic Object Types.md",
-    "Linguagem de Programação - TypeScript/4 Object Types.md",
-    "Linguagem de Programação - TypeScript/3.1 Call Signature.md",
-    "Linguagem de Programação - TypeScript/3. Functions.md",
-    "Linguagem de Programação - TypeScript/2. Type Basics.md",
     "SQL para Análise de Dados/Imagens/Pasted image 20250105163120.png",
     "SQL para Análise de Dados/join-inner-svgrepo-com.svg",
     "SQL para Análise de Dados/join-outer-svgrepo-com.svg",
@@ -219,7 +216,6 @@
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_3.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_2.py",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho/questao_1.py",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Nova pasta"
+    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Trabalho"
   ]
 }
