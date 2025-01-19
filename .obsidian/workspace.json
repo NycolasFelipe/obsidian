@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1496709cc768e534",
+        "id": "0e2c993d278b20b1",
         "type": "tabs",
         "children": [
           {
-            "id": "f8d9895d4c9fd7b3",
+            "id": "f113adde4afb0521",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,12 +169,18 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "41f506ad17fd3ecf",
+  "active": "f113adde4afb0521",
   "lastOpenFiles": [
+    "SQL para Análise de Dados/4. MySQL.md",
+    "SQL para Análise de Dados/4.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/3.4. DCL - Data Control Language.md",
+    "SQL para Análise de Dados/3.3. DDL - Data Definition Language.md",
+    "SQL para Análise de Dados/3.2. DML - Data Manipulation Language.md",
+    "SQL para Análise de Dados/3.1. DQL - Data Query Language.md",
+    "SQL para Análise de Dados/3.7. Consultas em múltiplas tabelas.md",
     "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
     "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
-    "SQL para Análise de Dados/4. MySQL.md",
     "Queries/Comprehensive summary of the given text.md",
     "Queries/Summarize text by producing a series of summaries.md",
     "SQL para Análise de Dados/3.10. Funções de agrupamento e ordenação.md",
@@ -183,10 +189,8 @@
     "Queries",
     "SQL para Análise de Dados/3.9. Funções de agregação.md",
     "SQL para Análise de Dados/3.8. Junção de tabelas.md",
-    "SQL para Análise de Dados/3.7. Consultas em múltiplas tabelas.md",
     "SQL para Análise de Dados/3.6. Filtrando consultas com WHERE.md",
     "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
-    "SQL para Análise de Dados/3.4. DCL - Data Control Language.md",
     "Sem título 1.md",
     "Linguagem de Programação - TypeScript/10.1 Render an HTML Template.md",
     "Linguagem de Programação - TypeScript/10. DOM & Type Casting.md",
@@ -194,10 +198,6 @@
     "Linguagem de Programação - TypeScript/8. Classes.md",
     "Linguagem de Programação - TypeScript/7. Enums.md",
     "Linguagem de Programação - TypeScript/6. Type Aliases.md",
-    "Linguagem de Programação - TypeScript/5. Union Types.md",
-    "Linguagem de Programação - TypeScript/4.3 Readonly Tuples.md",
-    "Linguagem de Programação - TypeScript/4.2 Tuple Types.md",
-    "Linguagem de Programação - TypeScript/4.1 Generic Object Types.md",
     "SQL para Análise de Dados/Imagens/Pasted image 20250105163120.png",
     "SQL para Análise de Dados/join-inner-svgrepo-com.svg",
     "SQL para Análise de Dados/join-outer-svgrepo-com.svg",
