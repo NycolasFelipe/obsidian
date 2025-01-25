@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2c993d278b20b1",
+        "id": "65113a5a520883f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f113adde4afb0521",
+            "id": "9bb9cb1e124389c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/4.2.2. Criação do banco e tabelas.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "4.2.2. Criação do banco e tabelas"
+            }
+          },
+          {
+            "id": "f4ae7ae0bc4919ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/4.2. Projeto - Farmácia.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2. Projeto - Farmácia"
+            }
+          },
+          {
+            "id": "978c67eb2355ee0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/4.2.3. Inserindo dados de teste.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2.3. Inserindo dados de teste"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 362.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -169,35 +202,37 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "f113adde4afb0521",
+  "active": "978c67eb2355ee0c",
   "lastOpenFiles": [
-    "SQL para Análise de Dados/4. MySQL.md",
-    "SQL para Análise de Dados/4.1. Prática SQL 1.md",
-    "SQL para Análise de Dados/3.4. DCL - Data Control Language.md",
+    "SQL para Análise de Dados/4.2.2. Criação do banco e tabelas.md",
+    "SQL para Análise de Dados/4.2.3. Inserindo dados de teste.md",
+    "SQL para Análise de Dados/4.2.1. Modelagem.md",
+    "SQL para Análise de Dados/4.2. Projeto - Farmácia.md",
+    "SQL para Análise de Dados/4.1.6. Prática SQL 6.md",
+    "SQL para Análise de Dados/4.1.5. Prática SQL 5.md",
+    "SQL para Análise de Dados/4.1.4. Prática SQL 4.md",
+    "SQL para Análise de Dados/4.1.3. Prática SQL 3.md",
+    "SQL para Análise de Dados/4.1.2. Prática SQL 2.md",
+    "SQL para Análise de Dados/4.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/Imagens/modelagem farmacia.png",
+    "SQL para Análise de Dados/Imagens/modelagem farmacia.png",
+    "SQL para Análise de Dados/2. Modelagem de Dados.md",
+    "SQL para Análise de Dados/2.1. Normalização de Dados.md",
+    "SQL para Análise de Dados/3.8. Junção de tabelas.md",
+    "SQL para Análise de Dados/3.7. Consultas em múltiplas tabelas.md",
+    "SQL para Análise de Dados/3.6. Filtrando consultas com WHERE.md",
+    "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
     "SQL para Análise de Dados/3.3. DDL - Data Definition Language.md",
     "SQL para Análise de Dados/3.2. DML - Data Manipulation Language.md",
     "SQL para Análise de Dados/3.1. DQL - Data Query Language.md",
-    "SQL para Análise de Dados/3.7. Consultas em múltiplas tabelas.md",
-    "Sistemas de Informação - Uninter/Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 5. Funções.md",
-    "Sistemas de Informação - Uninter/Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
-    "Queries/Comprehensive summary of the given text.md",
-    "Queries/Summarize text by producing a series of summaries.md",
-    "SQL para Análise de Dados/3.10. Funções de agrupamento e ordenação.md",
+    "SQL para Análise de Dados/3. Linguagem SQL.md",
+    "SQL para Análise de Dados/4. MySQL.md",
     "SQL para Análise de Dados/3.11. Funções de data e hora.md",
-    "SQL para Análise de Dados/3.12. Sub consultas.md",
-    "Queries",
     "SQL para Análise de Dados/3.9. Funções de agregação.md",
-    "SQL para Análise de Dados/3.8. Junção de tabelas.md",
-    "SQL para Análise de Dados/3.6. Filtrando consultas com WHERE.md",
-    "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
-    "Sem título 1.md",
-    "Linguagem de Programação - TypeScript/10.1 Render an HTML Template.md",
-    "Linguagem de Programação - TypeScript/10. DOM & Type Casting.md",
-    "Linguagem de Programação - TypeScript/9. Interfaces.md",
-    "Linguagem de Programação - TypeScript/8. Classes.md",
-    "Linguagem de Programação - TypeScript/7. Enums.md",
-    "Linguagem de Programação - TypeScript/6. Type Aliases.md",
+    "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
+    "SQL para Análise de Dados/3.12. Sub consultas.md",
+    "SQL para Análise de Dados/3.10. Funções de agrupamento e ordenação.md",
+    "Queries",
     "SQL para Análise de Dados/Imagens/Pasted image 20250105163120.png",
     "SQL para Análise de Dados/join-inner-svgrepo-com.svg",
     "SQL para Análise de Dados/join-outer-svgrepo-com.svg",
@@ -206,8 +241,6 @@
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202410.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202453.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202142.png",
-    "SQL para Análise de Dados/Imagens/Pasted image 20241221202314.png",
-    "SQL para Análise de Dados/Imagens/Pasted image 20241221202036.png",
     "Termos e Notas/Imagens",
     "SQL para Análise de Dados/Imagens",
     "Termos e Notas",
