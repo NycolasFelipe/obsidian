@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7908422bf6f702a8",
+        "id": "35e6845d2227c2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a02d6d8a79051585",
+            "id": "0152614fa52d8092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/5. PostgreSQL.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5. PostgreSQL"
+              "title": "Nova aba"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 397.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -173,19 +169,20 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "a02d6d8a79051585",
+  "active": "0152614fa52d8092",
   "lastOpenFiles": [
-    "SQL para Análise de Dados/4. MySQL.md",
+    "SQL para Análise de Dados/5.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/5.1.2. Prática SQL 2.md",
     "SQL para Análise de Dados/5. PostgreSQL.md",
+    "SQL para Análise de Dados/4.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/4.2.5. Atualizando e excluindo dados.md",
+    "SQL para Análise de Dados/4. MySQL.md",
     "SQL para Análise de Dados/4.2.3. Inserindo dados de teste.md",
     "SQL para Análise de Dados/4.2.4. Consultas.md",
-    "SQL para Análise de Dados/4.2.5 Atualizando e excluindo dados.md",
     "SQL para Análise de Dados/4.2.2. Criação do banco e tabelas.md",
-    "SQL para Análise de Dados/4.2.5. Atualizando e excluindo dados.md",
     "SQL para Análise de Dados/4.2. Projeto - Farmácia.md",
     "SQL para Análise de Dados/3.3. DDL - Data Definition Language.md",
     "SQL para Análise de Dados/3.2. DML - Data Manipulation Language.md",
-    "SQL para Análise de Dados/4.1.1. Prática SQL 1.md",
     "SQL para Análise de Dados/4.1.6. Prática SQL 6.md",
     "SQL para Análise de Dados/4.1.5. Prática SQL 5.md",
     "SQL para Análise de Dados/4.1.4. Prática SQL 4.md",
@@ -202,7 +199,6 @@
     "SQL para Análise de Dados/3.5. DTL - Data Transaction Language.md",
     "SQL para Análise de Dados/3.1. DQL - Data Query Language.md",
     "SQL para Análise de Dados/3. Linguagem SQL.md",
-    "SQL para Análise de Dados/3.11. Funções de data e hora.md",
     "Queries",
     "SQL para Análise de Dados/Imagens/Pasted image 20250105163120.png",
     "SQL para Análise de Dados/join-inner-svgrepo-com.svg",
