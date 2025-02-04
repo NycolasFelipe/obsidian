@@ -1,7 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showRibbon": false,
   "showLineNumber": false,
   "attachmentFolderPath": "./",
   "spellcheck": false,
