@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "attachmentFolderPath": "./",
   "spellcheck": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": true
 }
