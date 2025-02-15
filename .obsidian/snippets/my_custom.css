@@ -2,6 +2,14 @@ pre {
     background: #f8f8f8 !important;
 }
 
+h5 {
+    margin-bottom: -6px !important;
+}
+
+h6 {
+    padding-top: 0 !important;
+}
+
 li {
     padding-bottom: 6px !important;
 }
