@@ -4,20 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "42d21b1750d2b2ef",
+        "id": "9f61cae43b45bc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "201e3185e9499d8b",
+            "id": "7100c9487d4559b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/6.1.2. Prática SQL 2.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "6.1.2. Prática SQL 2"
+            }
+          },
+          {
+            "id": "2a81bbe95167c114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/5.1.4. Prática SQL 4.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1.4. Prática SQL 4"
+            }
+          },
+          {
+            "id": "d2579f81f23b644c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/5.1.5. Prática SQL 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1.5. Prática SQL 5"
+            }
+          },
+          {
+            "id": "86bab51f2a6cd82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/6.1.5. Prática SQL 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.5. Prática SQL 5"
+            }
+          },
+          {
+            "id": "e267d700b0cf0c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/6.1.6. Prática SQL 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.6. Prática SQL 6"
+            }
+          },
+          {
+            "id": "30b07eb2dd902432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL para Análise de Dados/6.1.7. Prática SQL 7.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1.7. Prática SQL 7"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -188,36 +263,37 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "41f506ad17fd3ecf",
+  "active": "30b07eb2dd902432",
   "lastOpenFiles": [
-    "Sistemas de Informação - Uninter/M3 - Cálculo Diferencial e Integral a uma Variável",
     "Sem título.md",
-    "APIs com Express/5.2. Prática MVC.md",
-    "APIs com Express/5.1. MVC - Por onde começar.md",
-    "RPG/Sistema.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 3. Estruturas Organizacionais.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 2. Conceito, Notação e Representação.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 1. Visão Geral e Princípios de Sitemas Organizacionais.md",
-    "Queries/Query para resumos.md",
+    "SQL para Análise de Dados/6.1.7. Prática SQL 7.md",
+    "SQL para Análise de Dados/6.1.6. Prática SQL 6.md",
+    "SQL para Análise de Dados/5.1.6. Prática SQL 6.md",
+    "SQL para Análise de Dados/5.1.7. Prática SQL 7.md",
+    "Sem título 2.md",
     "Sem título 1.md",
-    "SQL para Análise de Dados/1. Introdução a Banco de Dados.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
-    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
+    "SQL para Análise de Dados/6.1.5. Prática SQL 5.md",
+    "SQL para Análise de Dados/5.1.5. Prática SQL 5.md",
+    "SQL para Análise de Dados/6.1.4. Prática SQL 4.md",
+    "SQL para Análise de Dados/6.1.2. Prática SQL 2.md",
+    "SQL para Análise de Dados/6.1.3. Prática SQL 3.md",
+    "SQL para Análise de Dados/5.1.4. Prática SQL 4.md",
+    "SQL para Análise de Dados/5.1.3. Prática SQL 3.md",
+    "SQL para Análise de Dados/6.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/4.1.2. Prática SQL 2.md",
+    "SQL para Análise de Dados/7. MongoDB.md",
+    "SQL para Análise de Dados/5.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/6. SQLite.md",
+    "SQL para Análise de Dados/6.1. Configuração.md",
+    "SQL para Análise de Dados/5.2. Projeto - Locadora.md",
+    "SQL para Análise de Dados/5.1.2. Prática SQL 2.md",
+    "Sistemas de Informação - Uninter/M3 - Cálculo Diferencial e Integral a uma Variável/Aula 1. Revisão de Conceitos.md",
+    "Queries/Query para resumos.md",
+    "APIs com Express/2.1.2. Exemplo 2.md",
+    "Queries/Comprehensive summary of the given text.md",
+    "Sistemas de Informação - Uninter/M3 - Cálculo Diferencial e Integral a uma Variável",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Imagens",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais",
-    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
-    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 5. Funções.md",
-    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
-    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
-    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
-    "SQL para Análise de Dados/6.1.1. Prática SQL 1.md",
-    "SQL para Análise de Dados/6.1. Configuração.md",
-    "SQL para Análise de Dados/5.1.1. Prática SQL 1.md",
-    "SQL para Análise de Dados/5.1. Configuração.md",
-    "SQL para Análise de Dados/6. SQLite.md",
-    "APIs com Express/5. Teoria MVC e Teste Unitário.md",
-    "APIs com Express/4. Tratamento de Erros.md",
-    "APIs com Express/3. Express e NPM.md",
     "RPG",
     "SQL para Análise de Dados/genero.csv",
     "SQL para Análise de Dados/filme.csv",
@@ -234,7 +310,6 @@
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202527.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202618.png",
     "SQL para Análise de Dados/Imagens/Pasted image 20241221202410.png",
-    "Termos e Notas/Imagens",
-    "SQL para Análise de Dados/Imagens"
+    "Termos e Notas/Imagens"
   ]
 }
