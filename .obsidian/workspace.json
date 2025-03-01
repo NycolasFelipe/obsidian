@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9f61cae43b45bc7f",
+        "id": "5a065031bfc3629d",
         "type": "tabs",
         "children": [
           {
-            "id": "7100c9487d4559b6",
+            "id": "4cf611e9664b69dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/6.1.2. Prática SQL 2.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6.1.2. Prática SQL 2"
-            }
-          },
-          {
-            "id": "2a81bbe95167c114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/5.1.4. Prática SQL 4.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1.4. Prática SQL 4"
-            }
-          },
-          {
-            "id": "d2579f81f23b644c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/5.1.5. Prática SQL 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1.5. Prática SQL 5"
-            }
-          },
-          {
-            "id": "86bab51f2a6cd82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/6.1.5. Prática SQL 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1.5. Prática SQL 5"
-            }
-          },
-          {
-            "id": "e267d700b0cf0c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/6.1.6. Prática SQL 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1.6. Prática SQL 6"
-            }
-          },
-          {
-            "id": "30b07eb2dd902432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL para Análise de Dados/6.1.7. Prática SQL 7.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1.7. Prática SQL 7"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 358.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -263,53 +188,53 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "30b07eb2dd902432",
+  "active": "4cf611e9664b69dd",
   "lastOpenFiles": [
-    "Sem título.md",
-    "SQL para Análise de Dados/6.1.7. Prática SQL 7.md",
-    "SQL para Análise de Dados/6.1.6. Prática SQL 6.md",
-    "SQL para Análise de Dados/5.1.6. Prática SQL 6.md",
-    "SQL para Análise de Dados/5.1.7. Prática SQL 7.md",
-    "Sem título 2.md",
-    "Sem título 1.md",
-    "SQL para Análise de Dados/6.1.5. Prática SQL 5.md",
-    "SQL para Análise de Dados/5.1.5. Prática SQL 5.md",
-    "SQL para Análise de Dados/6.1.4. Prática SQL 4.md",
-    "SQL para Análise de Dados/6.1.2. Prática SQL 2.md",
-    "SQL para Análise de Dados/6.1.3. Prática SQL 3.md",
-    "SQL para Análise de Dados/5.1.4. Prática SQL 4.md",
-    "SQL para Análise de Dados/5.1.3. Prática SQL 3.md",
-    "SQL para Análise de Dados/6.1.1. Prática SQL 1.md",
-    "SQL para Análise de Dados/4.1.2. Prática SQL 2.md",
-    "SQL para Análise de Dados/7. MongoDB.md",
-    "SQL para Análise de Dados/5.1.1. Prática SQL 1.md",
-    "SQL para Análise de Dados/6. SQLite.md",
-    "SQL para Análise de Dados/6.1. Configuração.md",
-    "SQL para Análise de Dados/5.2. Projeto - Locadora.md",
-    "SQL para Análise de Dados/5.1.2. Prática SQL 2.md",
-    "Sistemas de Informação - Uninter/M3 - Cálculo Diferencial e Integral a uma Variável/Aula 1. Revisão de Conceitos.md",
-    "Queries/Query para resumos.md",
-    "APIs com Express/2.1.2. Exemplo 2.md",
-    "Queries/Comprehensive summary of the given text.md",
-    "Sistemas de Informação - Uninter/M3 - Cálculo Diferencial e Integral a uma Variável",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Imagens",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais",
-    "RPG",
-    "SQL para Análise de Dados/genero.csv",
-    "SQL para Análise de Dados/filme.csv",
-    "APIs com Express/Imagens",
-    "APIs com Express",
-    "SQL para Análise de Dados/Imagens/Modelagem - Locadora.svg",
-    "SQL para Análise de Dados/Untitled.png",
-    "SQL para Análise de Dados/Imagens/modelagem farmacia.png",
-    "SQL para Análise de Dados/Imagens/modelagem farmacia.png",
-    "Queries",
-    "SQL para Análise de Dados/Imagens/Pasted image 20250105163120.png",
-    "SQL para Análise de Dados/join-inner-svgrepo-com.svg",
-    "SQL para Análise de Dados/join-outer-svgrepo-com.svg",
-    "SQL para Análise de Dados/Imagens/Pasted image 20241221202527.png",
-    "SQL para Análise de Dados/Imagens/Pasted image 20241221202618.png",
-    "SQL para Análise de Dados/Imagens/Pasted image 20241221202410.png",
-    "Termos e Notas/Imagens"
+    "ORM/II Sequelize/2.2.4. Consulta de Modelo - Finders.md",
+    "ORM/II Sequelize/2.2.3. Consulta de Modelo - Básico.md",
+    "ORM/II Sequelize/2.2.5. Getter, Setters & Virtuals.md",
+    "ORM/II Sequelize/2.2.2. Instâncias de Modelos.md",
+    "ORM/II Sequelize/2.2.1.1. Tipos de Dados.md",
+    "ORM/II Sequelize/2.2.1. Noções Básicas de Modelos.md",
+    "ORM/II Sequelize/2.2. Conceitos Fundamentais.md",
+    "ORM/II Sequelize/2.1. Configuração.md",
+    "ORM/II Sequelize/2. Sequelize - ORM para Node.js.md",
+    "SQL para Análise de Dados/2. SQL/3. Linguagem SQL.md",
+    "ORM/II Sequelize",
+    "ORM/I ORM",
+    "SQL para Análise de Dados/VII MongoDB/7. MongoDB.md",
+    "SQL para Análise de Dados/VII MongoDB/7.2. Comparando NoSQL x SQL.md",
+    "SQL para Análise de Dados/VII MongoDB/7.1. Configuração.md",
+    "SQL para Análise de Dados/VII MongoDB",
+    "SQL para Análise de Dados/VI SQLite/6.1.7. Prática SQL 7.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.6. Prática SQL 6.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.5. Prática SQL 5.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.4. Prática SQL 4.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.3. Prática SQL 3.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.2. Prática SQL 2.md",
+    "SQL para Análise de Dados/VI SQLite/6.1. Configuração.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/VI SQLite/6. SQLite.md",
+    "SQL para Análise de Dados/VI SQLite",
+    "SQL para Análise de Dados/V PostgreSQL/5.2.3. Consultas.md",
+    "SQL para Análise de Dados/V PostgreSQL/5.2.2.1. Generated by Default x Serial x Auto Increment.md",
+    "SQL para Análise de Dados/V PostgreSQL/5.2.2. Modelagem.md",
+    "SQL para Análise de Dados/V PostgreSQL/5.2. Projeto - Locadora.md",
+    "SQL para Análise de Dados/V PostgreSQL",
+    "SQL para Análise de Dados/IV MySQL",
+    "SQL para Análise de Dados/III SQL",
+    "SQL para Análise de Dados/II Modelagem de Dados",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20250105163120.png",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20241221202527.png",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20241221202453.png",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20241221202410.png",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20241221202314.png",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20241221202142.png",
+    "SQL para Análise de Dados/I Imagens/modelagem farmacia.png",
+    "SQL para Análise de Dados/I Imagens/Pasted image 20241221202036.png",
+    "SQL para Análise de Dados/I Imagens/Modelagem - Locadora.svg",
+    "SQL para Análise de Dados/I Imagens",
+    "SQL para Análise de Dados/6 MongoDB",
+    "SQL para Análise de Dados/0 Imagens/Pasted image 20241221202527.png"
   ]
 }
