@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c84b0603ad7096f6",
+        "id": "b67a7a3db1d91145",
         "type": "tabs",
         "children": [
           {
-            "id": "d07ad8f9bdece466",
+            "id": "055978354ffb52d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 363.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -187,8 +187,25 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "d07ad8f9bdece466",
+  "active": "055978354ffb52d9",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 6. Aplicação e Análise de Técnicas.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 5. Evolução e Tendências.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 4. Técnicas de Representação Gráfica.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 3. Estruturas Organizacionais.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 2. Conceito, Notação e Representação.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 1. Visão Geral e Princípios de Sitemas Organizacionais.md",
+    "LLM/Prompt para resumo.md",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
+    "Termos e Notas/Apps úteis.md",
+    "LLM/Summarize text by producing a series of summaries.md",
+    "LLM/Query para resumos.md",
+    "LLM/Comprehensive summary of the given text.md",
     "ORM/II Sequelize/2.2.1. Noções Básicas de Modelos.md",
     "ORM/II Sequelize/2.2. Conceitos Fundamentais.md",
     "ORM/II Sequelize/2.1. Configuração.md",
@@ -198,26 +215,9 @@
     "ORM/II Sequelize/2.2.3. Consulta de Modelo.md",
     "ORM/II Sequelize/2.2.6. Consultas Brutas.md",
     "ORM/II Sequelize/2.2.4. Getter, Setters & Virtuals.md",
-    "ORM/II Sequelize/2.2.5. Validações e Restrições.md",
-    "ORM/II Sequelize/2. Sequelize - ORM para Node.js.md",
-    "ORM/II Sequelize/2.2.2. Instâncias de Modelos.md",
-    "ORM/II Sequelize/2.2.1.1. Tipos de Dados.md",
-    "SQL para Análise de Dados/2. SQL/3. Linguagem SQL.md",
     "ORM/II Sequelize",
     "ORM/I ORM",
-    "SQL para Análise de Dados/VII MongoDB/7. MongoDB.md",
-    "SQL para Análise de Dados/VII MongoDB/7.2. Comparando NoSQL x SQL.md",
-    "SQL para Análise de Dados/VII MongoDB/7.1. Configuração.md",
     "SQL para Análise de Dados/VII MongoDB",
-    "SQL para Análise de Dados/VI SQLite/6.1.7. Prática SQL 7.md",
-    "SQL para Análise de Dados/VI SQLite/6.1.6. Prática SQL 6.md",
-    "SQL para Análise de Dados/VI SQLite/6.1.5. Prática SQL 5.md",
-    "SQL para Análise de Dados/VI SQLite/6.1.4. Prática SQL 4.md",
-    "SQL para Análise de Dados/VI SQLite/6.1.3. Prática SQL 3.md",
-    "SQL para Análise de Dados/VI SQLite/6.1.2. Prática SQL 2.md",
-    "SQL para Análise de Dados/VI SQLite/6.1. Configuração.md",
-    "SQL para Análise de Dados/VI SQLite/6.1.1. Prática SQL 1.md",
-    "SQL para Análise de Dados/VI SQLite/6. SQLite.md",
     "SQL para Análise de Dados/VI SQLite",
     "SQL para Análise de Dados/V PostgreSQL",
     "SQL para Análise de Dados/IV MySQL",
