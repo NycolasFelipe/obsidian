@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b67a7a3db1d91145",
+        "id": "3efec6b12d33d0af",
         "type": "tabs",
         "children": [
           {
-            "id": "055978354ffb52d9",
+            "id": "d7fe8228b6974482",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -84,16 +84,6 @@
         "id": "1ca33995d7816b50",
         "type": "tabs",
         "children": [
-          {
-            "id": "3634187ce5f27c2e",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Chronology"
-            }
-          },
           {
             "id": "cc002062e4fd47ae",
             "type": "leaf",
@@ -183,12 +173,19 @@
       "graph:Abrir visualização em gráfico": true,
       "canvas:Criar novo canvas": true,
       "templates:Inserir modelo": true,
-      "command-palette:Abrir paleta de comandos": false,
-      "chronology:Open Chronology": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "055978354ffb52d9",
+  "active": "41f506ad17fd3ecf",
   "lastOpenFiles": [
+    "Webhooks/1. Fundamentos.md",
+    "Webhooks/2. Criando um webhook.md",
+    "Webhooks/3. Webhook em tempo real.md",
+    "Webhooks/4. Boas práticas de segurança.md",
+    "ORM/II Sequelize/2.2.8. Paranoid.md",
+    "Webhooks",
+    "Framework - React/0. Notas.md",
+    "LLM/Query para resumos.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 6. Aplicação e Análise de Técnicas.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 5. Evolução e Tendências.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 4. Técnicas de Representação Gráfica.md",
@@ -204,17 +201,10 @@
     "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
     "Termos e Notas/Apps úteis.md",
     "LLM/Summarize text by producing a series of summaries.md",
-    "LLM/Query para resumos.md",
     "LLM/Comprehensive summary of the given text.md",
     "ORM/II Sequelize/2.2.1. Noções Básicas de Modelos.md",
     "ORM/II Sequelize/2.2. Conceitos Fundamentais.md",
     "ORM/II Sequelize/2.1. Configuração.md",
-    "ORM/II Sequelize/2.2.7. Associações.md",
-    "ORM/II Sequelize/2.2.8. Paranoid.md",
-    "ORM/II Sequelize/2.2.6.1. Prevenção de SQL Injection.md",
-    "ORM/II Sequelize/2.2.3. Consulta de Modelo.md",
-    "ORM/II Sequelize/2.2.6. Consultas Brutas.md",
-    "ORM/II Sequelize/2.2.4. Getter, Setters & Virtuals.md",
     "ORM/II Sequelize",
     "ORM/I ORM",
     "SQL para Análise de Dados/VII MongoDB",
@@ -233,7 +223,6 @@
     "SQL para Análise de Dados/I Imagens/Pasted image 20241221202036.png",
     "SQL para Análise de Dados/I Imagens/Modelagem - Locadora.svg",
     "SQL para Análise de Dados/I Imagens",
-    "SQL para Análise de Dados/6 MongoDB",
     "SQL para Análise de Dados/0 Imagens/Pasted image 20241221202527.png"
   ]
 }
