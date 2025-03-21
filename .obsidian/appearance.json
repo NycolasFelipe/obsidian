@@ -1,9 +1,8 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Bolt",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "title_spacing",
-    "my_custom"
+    "title_spacing"
   ],
   "accentColor": "",
   "showViewHeader": true,

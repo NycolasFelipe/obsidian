@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3efec6b12d33d0af",
+        "id": "3d6faf12304dfaca",
         "type": "tabs",
         "children": [
           {
-            "id": "d7fe8228b6974482",
+            "id": "57b994561ee84766",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 339.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -176,12 +176,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "41f506ad17fd3ecf",
+  "active": "57b994561ee84766",
   "lastOpenFiles": [
     "Webhooks/1. Fundamentos.md",
-    "Webhooks/2. Criando um webhook.md",
     "Webhooks/3. Webhook em tempo real.md",
+    "Webhooks/2. Criando um webhook.md",
     "Webhooks/4. Boas práticas de segurança.md",
+    "ORM/II Sequelize/2.2.7. Associações.md",
+    "ORM/II Sequelize/2.2.6. Consultas Brutas.md",
+    "ORM/II Sequelize/2.2.5. Validações e Restrições.md",
+    "ORM/II Sequelize/2.2.2. Instâncias de Modelos.md",
+    "ORM/II Sequelize/2.2.1.1. Tipos de Dados.md",
+    "ORM/II Sequelize/2.2.1. Noções Básicas de Modelos.md",
+    "ORM/II Sequelize/2.2. Conceitos Fundamentais.md",
+    "ORM/II Sequelize/2.1. Configuração.md",
+    "ORM/II Sequelize/2. Sequelize - ORM para Node.js.md",
+    "APIs com Express/2.1. Estrutura de uma Aplicação Web.md",
+    "APIs com Express/2. Padrão de Arquitetura MVC.md",
+    "APIs com Express/1.2.1. Origem dos acrônimos.md",
+    "APIs com Express/1.2. SOAP, REST e GraphQL.md",
+    "APIs com Express/1.1. HTTP.md",
+    "APIs com Express/1. Fundamentos.md",
     "ORM/II Sequelize/2.2.8. Paranoid.md",
     "Webhooks",
     "Framework - React/0. Notas.md",
@@ -190,21 +205,6 @@
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 5. Evolução e Tendências.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 4. Técnicas de Representação Gráfica.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 3. Estruturas Organizacionais.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 2. Conceito, Notação e Representação.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 1. Visão Geral e Princípios de Sitemas Organizacionais.md",
-    "LLM/Prompt para resumo.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 6. Tendências em Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 5. Negócios Eletrônicos.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 4. Sistemas de Gestão e Big Data.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 3. Infraestrutura e Segurança de Sistemas de Informação.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 2. Sistemas de Informação nas Organizações.md",
-    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
-    "Termos e Notas/Apps úteis.md",
-    "LLM/Summarize text by producing a series of summaries.md",
-    "LLM/Comprehensive summary of the given text.md",
-    "ORM/II Sequelize/2.2.1. Noções Básicas de Modelos.md",
-    "ORM/II Sequelize/2.2. Conceitos Fundamentais.md",
-    "ORM/II Sequelize/2.1. Configuração.md",
     "ORM/II Sequelize",
     "ORM/I ORM",
     "SQL para Análise de Dados/VII MongoDB",
