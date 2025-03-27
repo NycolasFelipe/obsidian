@@ -1,0 +1,18 @@
+{
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ]
+}

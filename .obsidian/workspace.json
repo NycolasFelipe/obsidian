@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6faf12304dfaca",
+        "id": "b37a2b48478f28b1",
         "type": "tabs",
         "children": [
           {
-            "id": "57b994561ee84766",
+            "id": "d62be77066195508",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "interorganizacionais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 326.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -176,35 +176,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "57b994561ee84766",
+  "active": "d62be77066195508",
   "lastOpenFiles": [
-    "Webhooks/1. Fundamentos.md",
-    "Webhooks/3. Webhook em tempo real.md",
-    "Webhooks/2. Criando um webhook.md",
-    "Webhooks/4. Boas práticas de segurança.md",
-    "ORM/II Sequelize/2.2.7. Associações.md",
-    "ORM/II Sequelize/2.2.6. Consultas Brutas.md",
-    "ORM/II Sequelize/2.2.5. Validações e Restrições.md",
-    "ORM/II Sequelize/2.2.2. Instâncias de Modelos.md",
-    "ORM/II Sequelize/2.2.1.1. Tipos de Dados.md",
-    "ORM/II Sequelize/2.2.1. Noções Básicas de Modelos.md",
-    "ORM/II Sequelize/2.2. Conceitos Fundamentais.md",
-    "ORM/II Sequelize/2.1. Configuração.md",
-    "ORM/II Sequelize/2. Sequelize - ORM para Node.js.md",
-    "APIs com Express/2.1. Estrutura de uma Aplicação Web.md",
-    "APIs com Express/2. Padrão de Arquitetura MVC.md",
-    "APIs com Express/1.2.1. Origem dos acrônimos.md",
-    "APIs com Express/1.2. SOAP, REST e GraphQL.md",
-    "APIs com Express/1.1. HTTP.md",
-    "APIs com Express/1. Fundamentos.md",
-    "ORM/II Sequelize/2.2.8. Paranoid.md",
-    "Webhooks",
-    "Framework - React/0. Notas.md",
-    "LLM/Query para resumos.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 6. Aplicação e Análise de Técnicas.md",
+    "Docker/1. Resumo e Principais Recursos.md",
+    "Docker/2. Docker - Node.js e Express.md",
+    "Sem título 1.md",
+    "Docker",
+    "RPG/Kult - A Divindade Perdida/Capítulo 1.3. Jogando Kult.md",
+    "RPG/Kult - A Divindade Perdida/Ficha do Personagem.md",
+    "Sem título.md",
+    "RPG/Kult - A Divindade Perdida/78b7e4b75f01bc6dca2f3201c960e9f9.jpg",
+    "RPG/Kult - A Divindade Perdida/Capítulo 1.2. Além da Escuridão.md",
+    "RPG/Kult - A Divindade Perdida/Capítulo 1.1. O Demiurgo.md",
+    "RPG/Kult - A Divindade Perdida/Capítulo 1. Um Mundo na Escuridão.md",
+    "LLM/Comprehensive summary of the given text.md",
+    "RPG/Narkovia.md",
+    "RPG/Kult - A Divindade Perdida",
+    "Sistemas de Informação - Uninter/M1 - Fundamentos de Sistema de Informação/Aula 1. Conceitos Fundamentais.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 5. Evolução e Tendências.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 6. Aplicação e Análise de Técnicas.md",
+    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 5. Funções.md",
+    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 6. Tuplas, listas, dicionários e strings.md",
+    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 4. Estruturas de repetição.md",
+    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 3. Estruturas de decisão.md",
+    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 2. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Sistemas de Informação - Uninter/M2 - Lógica de Programação e Algoritmos/Aula 1. Introdução à Lógica e Algoritmos.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 2. Conceito, Notação e Representação.md",
+    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 1. Visão Geral e Princípios de Sitemas Organizacionais.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 4. Técnicas de Representação Gráfica.md",
     "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 3. Estruturas Organizacionais.md",
+    "Webhooks/1. Fundamentos.md",
+    "Webhooks/3. Webhook em tempo real.md",
+    "Webhooks",
     "ORM/II Sequelize",
     "ORM/I ORM",
     "SQL para Análise de Dados/VII MongoDB",
@@ -212,7 +215,6 @@
     "SQL para Análise de Dados/V PostgreSQL",
     "SQL para Análise de Dados/IV MySQL",
     "SQL para Análise de Dados/III SQL",
-    "SQL para Análise de Dados/II Modelagem de Dados",
     "SQL para Análise de Dados/I Imagens/Pasted image 20250105163120.png",
     "SQL para Análise de Dados/I Imagens/Pasted image 20241221202527.png",
     "SQL para Análise de Dados/I Imagens/Pasted image 20241221202453.png",
@@ -221,8 +223,6 @@
     "SQL para Análise de Dados/I Imagens/Pasted image 20241221202142.png",
     "SQL para Análise de Dados/I Imagens/modelagem farmacia.png",
     "SQL para Análise de Dados/I Imagens/Pasted image 20241221202036.png",
-    "SQL para Análise de Dados/I Imagens/Modelagem - Locadora.svg",
-    "SQL para Análise de Dados/I Imagens",
-    "SQL para Análise de Dados/0 Imagens/Pasted image 20241221202527.png"
+    "SQL para Análise de Dados/I Imagens/Modelagem - Locadora.svg"
   ]
 }
