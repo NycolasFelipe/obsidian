@@ -1,10 +1,4 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "title_spacing"
-  ],
-  "accentColor": "",
-  "showViewHeader": true,
-  "showRibbon": false
+  "theme": "obsidian",
+  "cssTheme": "Minimal"
 }
