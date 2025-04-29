@@ -16,5 +16,6 @@
   "minimal-style@@row-lines": false,
   "minimal-style@@table-center": false,
   "minimal-style@@table-nowrap": false,
-  "minimal-style@@maximize-tables-off": "maximize-tables-off"
+  "minimal-style@@maximize-tables-off": "maximize-tables-off",
+  "minimal-style@@p-spacing": "0.5rem"
 }

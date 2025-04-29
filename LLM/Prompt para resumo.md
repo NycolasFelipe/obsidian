@@ -4,5 +4,5 @@ Você pode fornecer um resumo abrangente do texto fornecido? O resumo deve cobri
 Em relação à formatação:
 - Títulos devem ser h6 (###### titulo) e não podem ser negritos
 - Não usar hr para dividir tópicos
+- Tente fazer o resumo de forma mais natural, sem tantas listagens
 ```
-
