@@ -6,3 +6,9 @@
 
 **Editor/Conversor de PDF**
 [PDFsam Enhanced](https://cart.pdfsam.org/web/?lang=pt)
+
+**Ferramenta para substituição de texto**
+[Beeftext](https://beeftext.org/)
+
+**Local Directory to Plain Text**
+[Repo2txt](https://repo2txt.simplebasedomain.com/local.html)
