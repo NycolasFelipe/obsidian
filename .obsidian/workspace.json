@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b2f2da00107eac",
+        "id": "5dc1dca52710b0b4",
         "type": "tabs",
         "children": [
           {
-            "id": "df488067d837989a",
+            "id": "57da57f13d43b642",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 352.5,
+    "collapsed": true
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -176,29 +177,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df488067d837989a",
+  "active": "57da57f13d43b642",
   "lastOpenFiles": [
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 4. UML e Diagrama de Caso de Uso.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 5. Entendendo o Diagrama de Classes.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502213029.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502211545.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502212451.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502212354.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502212307.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502212155.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 3. Engenharia de Requisitos e Casos de Uso.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 2. Histórico e Diagrama de Fluxo de Dados.md",
-    "Sem título.md",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 2.1. Análise de Requisitos.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 1. Processos de Negócio e Notação BPMN.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 2. Histórico e Diagrama de Fluxo de Dados.md",
+    "Sem título 1.md",
     "LLM/Prompt para resumo.md",
     "LLM/Query para resumos.md",
     "LLM/Summarize text by producing a series of summaries.md",
     "Sem título 2.md",
-    "Sem título 1.md",
     "LLM/Comprehensive summary of the given text.md",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250428195251.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250428195410.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250428195328.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426175537.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426175922.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426175812.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426175724.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 1. Processos de Negócio e Notação BPMN.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426170247.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426165159.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426165350.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens",
     "SQL/1. MySQL.md",
     "SQL/2.1 AUTO_INCREMENT.md",
@@ -214,8 +216,6 @@
     "Linguagem de Programação - TypeScript/9. Interfaces.md",
     "Linguagem de Programação - TypeScript/3.1 Call Signature.md",
     "Linguagem de Programação - TypeScript/3. Functions.md",
-    "Linguagem de Programação - TypeScript/2. Type Basics.md",
-    "Linguagem de Programação - TypeScript/1.1 Workflow & tsconfig.md",
     "Testes Automatizados",
     "Docker/Notas",
     "Docker",
