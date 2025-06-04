@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "389ca2e6667ecd81",
+        "id": "be548e6b30476f11",
         "type": "tabs",
         "children": [
           {
-            "id": "f6722aee67e0412c",
+            "id": "cc60abdfb7d85b1c",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250503200506.png"
+                "file": "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250504195318.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250503200506"
+              "title": "Pasted image 20250504195318"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 365.5
   },
   "right": {
     "id": "c4104bcadff03ae6",
@@ -178,52 +178,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "41f506ad17fd3ecf",
+  "active": "cc60abdfb7d85b1c",
   "lastOpenFiles": [
-    "LLM/Prompt para resumo.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 6. Outros Diagramas Importantes.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250504202506.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250504195318.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250503200506.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 5. Entendendo o Diagrama de Classes.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Pasted image 20250503195157.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Pasted image 20250503195305.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Pasted image 20250503195242.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Pasted image 20250503195222.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Pasted image 20250503195211.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250503194811.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250503194553.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250503194242.png",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250503194208.png",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 4. UML e Diagrama de Caso de Uso.md",
-    "LLM/Project Documentation.md",
-    "Termos e Notas/Apps úteis.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 3. Engenharia de Requisitos e Casos de Uso.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 2.1. Análise de Requisitos.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 1. Processos de Negócio e Notação BPMN.md",
-    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Aula 2. Histórico e Diagrama de Fluxo de Dados.md",
-    "Sem título 1.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250502212354.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250428195251.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426175537.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426165350.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426162926.png",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens/Pasted image 20250426165159.png",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Aula 2. Modelagem de Banco de Dados.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Aula 3. Construção de Estruturas de Dados.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Aula 4. Manipulação de Estruturas de Dados.md",
+    "SQL para Análise de Dados/II Modelagem de Dados/2. Modelagem de Dados.md",
+    "SQL para Análise de Dados/II Modelagem de Dados/2.1. Normalização de Dados.md",
+    "SQL para Análise de Dados/II Modelagem de Dados/1. Introdução a Banco de Dados.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Trabalho.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Aula 6. Procedimentos Armazenados.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Aula 5. Comandos Avançados.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Aula 1. Fundamentos de Banco de Dados.md",
+    "LLM/Prompt para resumo.md",
     "LLM/Query para resumos.md",
     "LLM/Summarize text by producing a series of summaries.md",
-    "Sem título 2.md",
-    "LLM/Comprehensive summary of the given text.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional/Sem título",
+    "CSS/Anotações/1. CSS Reset Stylesheet.md",
+    "Sistemas de Informação - Uninter/M5 - Banco de Dados Relacional",
+    "CSS/Anotações/2. Change SVGs color.md",
+    "APIs com Express/2.1. Estrutura de uma Aplicação Web.md",
+    "APIs com Express/2. Padrão de Arquitetura MVC.md",
+    "SQL para Análise de Dados/VI SQLite/6.1.1. Prática SQL 1.md",
+    "SQL para Análise de Dados/VI SQLite/6.1. Configuração.md",
+    "Termos e Notas/Apps úteis.md",
+    "SQL para Análise de Dados/IV MySQL/4.2.5. Atualizando e excluindo dados.md",
+    "SQL para Análise de Dados/IV MySQL/4.1.2. Prática SQL 2.md",
+    "SQL para Análise de Dados/IV MySQL/4.1.1. Prática SQL 1.md",
+    "APIs com Express/1.2.1. Origem dos acrônimos.md",
+    "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Trabalho - Atividade Prática.md",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas/Imagens",
-    "SQL/1. MySQL.md",
-    "SQL/2.1 AUTO_INCREMENT.md",
-    "SQL/3.1 BETWEEN.md",
-    "SQL/3.3 IN.md",
-    "SQL/7.1 ALTER_DATABASE.md",
-    "SQL/2. SQL.md",
     "Sistemas de Informação - Uninter/M4 - Análise e Modelagem de Sistemas",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 6. Aplicação e Análise de Técnicas.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 4. Técnicas de Representação Gráfica.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 2. Conceito, Notação e Representação.md",
-    "Sistemas de Informação - Uninter/M3 - Sistemas de Informações Gerenciais/Aula 1. Visão Geral e Princípios de Sitemas Organizacionais.md",
     "Testes Automatizados",
     "Docker/Notas",
     "Docker",
     "RPG/Kult - A Divindade Perdida",
     "Webhooks",
-    "ORM/II Sequelize",
-    "ORM/I ORM",
-    "SQL para Análise de Dados/VII MongoDB"
+    "ORM/II Sequelize"
   ]
 }
